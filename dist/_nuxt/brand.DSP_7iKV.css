@@ -1,0 +1,1 @@
+@keyframes toast-enter{0%{opacity:0;transform:translate(-100%)}to{opacity:1;transform:translate(0)}}@keyframes toast-exit{0%{opacity:1}to{opacity:0;transform:translate(100%)}}.toast-enter{animation:toast-enter .3s ease-out forwards}.toast-exit{animation:toast-exit .3s ease-in forwards}.toast{left:1rem;max-width:20rem;position:fixed;top:1rem;z-index:9999}
